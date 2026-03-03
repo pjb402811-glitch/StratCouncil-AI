@@ -1,0 +1,29 @@
+{
+  "short_name": "AI자문단",
+  "name": "전략혁신 AI자문단",
+  "description": "공공기관 경영전략 및 사업전략을 위한 AI 자문단 플랫폼",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#f8fafc",
+  "background_color": "#f8fafc"
+}
